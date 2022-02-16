@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handwritten solutions to the quiz problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0ac4a09cb4be8101bd82b02c30f708d2_quiz_soln.pdf
+file: /media/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0ac4a09cb4be8101bd82b02c30f708d2_quiz_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz_soln.pdf
 uid: 0ac4a09c-b4be-8101-bd82-b02c30f708d2

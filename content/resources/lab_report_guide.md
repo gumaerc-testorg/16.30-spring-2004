@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Guide to writing lab reports.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-30-estimation-and-control-of-aerospace-systems-spring-2004/32d1db53f016527c3ffb09a520b3dcc3_lab_report_guide.pdf
+file: /media/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/32d1db53f016527c3ffb09a520b3dcc3_lab_report_guide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab_report_guide.pdf
 uid: 32d1db53-f016-527c-3ffb-09a520b3dcc3

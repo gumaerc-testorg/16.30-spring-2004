@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Chapter 3 (extra) from a book of course readings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-30-estimation-and-control-of-aerospace-systems-spring-2004/36bc9c9cdcbe81057b93846ce1a24b96_ch3_nnl_extra.pdf
+file: /media/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/36bc9c9cdcbe81057b93846ce1a24b96_ch3_nnl_extra.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch3_nnl_extra.pdf
 uid: 36bc9c9c-dcbe-8105-7b93-846ce1a24b96
