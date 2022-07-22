@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 26318024-883e-fdd8-be63-f3a0369f773d
 ---
@@ -24,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/ho1))
+Introduction ({{% resource_link b1d74d65-8935-eff5-44d2-5206d30f23e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/ho1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Frequency Response Bode Plot Rules ([PDF]({{< baseurl >}}/resources/ho2))
+Frequency Response Bode Plot Rules ({{% resource_link 5510a70e-7b20-0b1f-2971-77b50d8f15eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,8 +46,8 @@ Frequency Response Bode Plot Rules ([PDF]({{< baseurl >}}/resources/ho2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Frequency Response (cont.) ([PDF]({{< baseurl >}}/resources/ho2))  
-Gain / Phase Margins ([PDF]({{< baseurl >}}/resources/ho3))
+Frequency Response (cont.) ({{% resource_link 5510a70e-7b20-0b1f-2971-77b50d8f15eb "PDF" %}})  
+Gain / Phase Margins ({{% resource_link c08adeeb-744f-b29b-a6e7-78c1bd20074b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +74,7 @@ Bode Plots for Unstable Open - Loop Systems
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Root - Locus Review ([PDF]({{< baseurl >}}/resources/ho4))
+Root - Locus Review ({{% resource_link fcb6321b-4d77-6fde-a843-63265d7c3346 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ Root - Locus Examples
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Compensation Design Principles ([PDF]({{< baseurl >}}/resources/l8))
+Compensation Design Principles ({{% resource_link ab10d2d0-3240-7929-bb3b-d8d31bd1adc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,8 +110,8 @@ Compensation Design Principles (cont.)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Proportional Control ([PDF]({{< baseurl >}}/resources/l10))  
-Extra Handout ([PDF]({{< baseurl >}}/resources/ho6_extra))
+Proportional Control ({{% resource_link f020e3c7-079e-685d-cbef-028f7827d6c0 "PDF" %}})  
+Extra Handout ({{% resource_link 0da94250-4d05-64a4-ec76-648900befb22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +120,7 @@ Extra Handout ([PDF]({{< baseurl >}}/resources/ho6_extra))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Lag and PID Compensation ([PDF]({{< baseurl >}}/resources/l11))
+Lag and PID Compensation ({{% resource_link 8f964200-efca-2f25-644d-d7619e0625fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +129,7 @@ Lag and PID Compensation ([PDF]({{< baseurl >}}/resources/l11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Lead and PID Compensation ([PDF]({{< baseurl >}}/resources/l12))
+Lead and PID Compensation ({{% resource_link 3e03f545-ead9-e6a3-1943-af01f596d965 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +138,7 @@ Lead and PID Compensation ([PDF]({{< baseurl >}}/resources/l12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Examples ([PDF]({{< baseurl >}}/resources/l13))
+Examples ({{% resource_link 8bd0f2a1-23cc-e85a-8ee2-24b8351a21ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ Examples ([PDF]({{< baseurl >}}/resources/l13))
 {{< tdclose >}}
 {{< tdopen >}}
 High Frequency Roll-off  
-Notch and Plant Inversion ([PDF]({{< baseurl >}}/resources/l14))
+Notch and Plant Inversion ({{% resource_link 23fd2ba5-4ecf-5409-e9e1-2d6145eb04ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,8 +157,8 @@ Notch and Plant Inversion ([PDF]({{< baseurl >}}/resources/l14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Design Example Lead-Lag Compensation ([PDF]({{< baseurl >}}/resources/l15))  
-Extra Handout ([PDF]({{< baseurl >}}/resources/l15_2))
+Design Example Lead-Lag Compensation ({{% resource_link e6a0037f-190b-aea8-bf24-edbcded8680a "PDF" %}})  
+Extra Handout ({{% resource_link cc2c3e49-5815-d851-c8ef-ec48245759c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,8 +185,8 @@ More Examples
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Control of Unstable Plants ([PDF]({{< baseurl >}}/resources/l18))  
-Extra ([PDF]({{< baseurl >}}/resources/l18_2))
+Control of Unstable Plants ({{% resource_link b7c752cc-9f4e-03d7-4ff4-52657540ae0e "PDF" %}})  
+Extra ({{% resource_link cd08f08b-82a9-f199-5965-728938842fe9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +213,7 @@ Quiz
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Models of Nonlinearities ([PDF]({{< baseurl >}}/resources/l21))
+Models of Nonlinearities ({{% resource_link cd1d521f-11fe-8643-e2de-173b9b5cb58e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +222,7 @@ Models of Nonlinearities ([PDF]({{< baseurl >}}/resources/l21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Common Effects of Nonlinearities ([PDF]({{< baseurl >}}/resources/l22))
+Common Effects of Nonlinearities ({{% resource_link e5872312-22e1-0ad4-86da-8cb69d43244f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +241,7 @@ Prof. David Trumper's Lecture
 {{< tdclose >}}
 {{< tdopen >}}
 Describing Functions  
-Introduction and Motivation ([PDF]({{< baseurl >}}/resources/l24))
+Introduction and Motivation ({{% resource_link b8dae88b-4f0a-2d6c-62c5-53335f5fdd10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Introduction and Motivation ([PDF]({{< baseurl >}}/resources/l24))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Describing Function Analysis ([PDF]({{< baseurl >}}/resources/l25))
+Describing Function Analysis ({{% resource_link c4648c8a-f81a-bd80-4ee1-2975febaeda8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +286,7 @@ DF Analysis: Example 1 (cont.)
 29
 {{< tdclose >}}
 {{< tdopen >}}
-DF Analysis: Limit Cycling ([PDF]({{< baseurl >}}/resources/l29))
+DF Analysis: Limit Cycling ({{% resource_link 576d95a6-effe-9a30-212f-1f931dac423b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +323,7 @@ DF-based Compensation Design (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
 Phase-Plane Analysis  
-Introduction and Motivation ([PDF]({{< baseurl >}}/resources/l33))
+Introduction and Motivation ({{% resource_link 04836c2c-206f-bfb2-c544-59ee2d8e7d5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

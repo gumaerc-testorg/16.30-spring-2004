@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: e18c5462-62b7-7c20-7bce-ed8b06334820
 ---
@@ -19,19 +23,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz ([PDF - 2.0 MB]({{< baseurl >}}/resources/quiz_3_19_03-1))
+Quiz ({{% resource_link 48de5015-9b46-fdd0-71e8-f5916be7824b "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/quiz_soln-1))
+({{% resource_link 0ac4a09c-b4be-8101-bd82-b02c30f708d2 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/final_exama))
+Final Exam ({{% resource_link 7a533580-0679-a840-86c7-edae107e5d75 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.6 MB]({{< baseurl >}}/resources/final_solna))
+({{% resource_link b8a83ec1-19b7-9137-a7d9-0cc63350ab1a "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
