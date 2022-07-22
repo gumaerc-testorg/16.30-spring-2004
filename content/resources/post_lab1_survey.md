@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/681
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: post_lab1_survey.pdf
 uid: 681683ce-4d6e-943e-04c9-ee85e819f0cc
 ---
 Survey to be filled out after Lab 1.
-

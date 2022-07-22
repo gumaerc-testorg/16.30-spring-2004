@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0ac
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz_soln.pdf
 uid: 0ac4a09c-b4be-8101-bd82-b02c30f708d2
 ---
 Handwritten solutions to the quiz problems.
-

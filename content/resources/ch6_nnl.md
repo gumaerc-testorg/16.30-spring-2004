@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/a55
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch6_nnl.pdf
 uid: a55660b9-5b1d-5551-68b7-d6a43e01fc81
 ---
 Chapter 6 from a book of course readings.
-

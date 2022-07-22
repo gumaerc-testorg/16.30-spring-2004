@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/32d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_report_guide.pdf
 uid: 32d1db53-f016-527c-3ffb-09a520b3dcc3
 ---
 Guide to writing lab reports.
-

@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/c11
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

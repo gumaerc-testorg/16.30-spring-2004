@@ -5,6 +5,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/f00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intro_nnl.pdf
 uid: f000263a-1b27-25d8-17ed-aaabb81421bf
 ---
 Supplementary reading courtesy of D. B. DeBra. Used with permission.
-

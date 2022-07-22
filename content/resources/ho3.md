@@ -6,6 +6,7 @@ file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/c08
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hO3.pdf
 uid: c08adeeb-744f-b29b-a6e7-78c1bd20074b
 ---
 Lecture Handout 3. The instructor uses the blank spaces in these lecture handouts to work through problems and concepts during class.
-
