@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten solutions to the quiz problems.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0ac4a09cb4be8101bd82b02c30f708d2_quiz_soln.pdf
+file_size: 1555972
 file_type: application/pdf
 learning_resource_types:
 - Exams

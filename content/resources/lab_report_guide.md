@@ -2,6 +2,7 @@
 content_type: resource
 description: Guide to writing lab reports.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/32d1db53f016527c3ffb09a520b3dcc3_lab_report_guide.pdf
+file_size: 77996
 file_type: application/pdf
 learning_resource_types:
 - Labs
