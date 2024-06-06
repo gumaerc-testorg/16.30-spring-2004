@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten solutions to the problem set.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/3784e17e76d32df57ac03297b50ed06c_ps2sol.pdf
+file_size: 161880
 file_type: application/pdf
 learning_resource_types:
 - Assignments

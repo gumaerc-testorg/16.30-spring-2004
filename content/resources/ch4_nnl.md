@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 4 from a book of course readings.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/10c7652ab3213425910c4edda7e79378_ch4_nnl.pdf
+file_size: 795194
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
