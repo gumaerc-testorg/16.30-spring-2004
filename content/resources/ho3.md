@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture Handout 3. The instructor uses the blank spaces in these lecture
   handouts to work through problems and concepts during class.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/c08adeeb744fb29ba6e778c1bd20074b_hO3.pdf
+file_size: 53883
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

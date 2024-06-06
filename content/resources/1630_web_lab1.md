@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/c1111723b328e4b7de9b6a9891bd94ee_1630_web_lab1.pdf
+file_size: 84602
 file_type: application/pdf
 learning_resource_types:
 - Labs

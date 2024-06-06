@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/ccbee4b06881d5b2c467d0789403f1be_ch8.pdf
+file_size: 5011456
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

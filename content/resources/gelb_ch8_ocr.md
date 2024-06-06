@@ -4,6 +4,7 @@ description: Chapter 8 from the course textbook, Multiple-Input Describing Funct
   and Nonlinear System Design, McGraw Hill, 1968. Courtesy of the authors, Authur
   Gelb and Wallace Vander Velde. Used with permission.
 file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/fe88eb5cba467edcd5d2a3dea570e8d5_gelb_ch8_ocr.pdf
+file_size: 881701
 file_type: application/pdf
 learning_resource_types:
 - Readings
