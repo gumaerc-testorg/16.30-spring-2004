@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/d5d93b1026d3e0356a846e5e67ab9df4_HW5.pdf
+file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/d5d93b1026d3e0356a846e5e67ab9df4_HW5.pdf
 file_size: 37736
 file_type: application/pdf
 learning_resource_types:
