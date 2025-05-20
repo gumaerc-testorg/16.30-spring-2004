@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten lecture notes.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0da942504d0564a4ec76648900befb22_hO6_extra.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0da942504d0564a4ec76648900befb22_hO6_extra.pdf
 file_size: 155245
 file_type: application/pdf
 learning_resource_types:
