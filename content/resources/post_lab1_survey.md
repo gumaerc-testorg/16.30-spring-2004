@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Survey to be filled out after Lab 1.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/681683ce4d6e943e04c9ee85e819f0cc_post_lab1_survey.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/681683ce4d6e943e04c9ee85e819f0cc_post_lab1_survey.pdf
 file_size: 16918
 file_type: application/pdf
 learning_resource_types:

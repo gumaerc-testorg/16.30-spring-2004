@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 2 from a book of course readings.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/21b3e591130c72b081581a1a890adf86_ch2_nnl.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/21b3e591130c72b081581a1a890adf86_ch2_nnl.pdf
 file_size: 343747
 file_type: application/pdf
 learning_resource_types:

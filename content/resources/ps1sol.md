@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten solutions to the problem set.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/4b471385984ab4126c96a93bd36eb9c7_ps1sol.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/4b471385984ab4126c96a93bd36eb9c7_ps1sol.pdf
 file_size: 188636
 file_type: application/pdf
 learning_resource_types:

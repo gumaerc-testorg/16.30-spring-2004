@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten solutions to the final exam problems.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/b8a83ec119b79137a7d90cc63350ab1a_final_solna.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/b8a83ec119b79137a7d90cc63350ab1a_final_solna.pdf
 file_size: 2691137
 file_type: application/pdf
 learning_resource_types:

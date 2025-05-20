@@ -4,7 +4,7 @@ description: Title Page, Preface, Table of Contents, and Chapter 1 from the cour
   textbook, Multiple-Input Describing Functions and Nonlinear System Design, McGraw
   Hill, 1968. Courtesy of the authors, Authur Gelb and Wallace Vander Velde. Used
   with permission.
-file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/b4892f07286e8a13685e5f013ed3d797_gelb_ch1_ocra.pdf
+file: /courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/b4892f07286e8a13685e5f013ed3d797_gelb_ch1_ocra.pdf
 file_size: 2414201
 file_type: application/pdf
 learning_resource_types:
