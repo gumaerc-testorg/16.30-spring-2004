@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/16-30-estimation-and-control-of-aerospace-syste
 file_size: 16918
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
